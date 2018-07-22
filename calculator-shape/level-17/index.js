@@ -48,7 +48,7 @@ let parallelogram_perimeter = 2 * (parallelogram_base + parallelogram_height);
 let trapezoid_side_1 = 11;
 let trapezoid_side_2 = 20;
 let trapezoid_height = 9;
-let trapezoid_area = (trapezoid_side_1 + trapezoid_side_2) * height / 2;
+let trapezoid_area = (trapezoid_side_1 + trapezoid_side_2) * trapezoid_height / 2;
 
 let trapezoid_side_3 = 13;
 let trapezoid_side_4 = 13.5;
